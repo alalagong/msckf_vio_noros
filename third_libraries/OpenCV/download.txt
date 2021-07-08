@@ -1,0 +1,14 @@
+https://sourceforge.net/projects/opencvlibrary/files/opencv-win/
+
+vc16: Visual Studio 2019
+vc15: Visual Studio 2017
+vc14: Visual Studio 2015
+vc12: Visual Studio 2013
+vc11: Visual Studio 2012
+vc10: Visual Studio 2010
+
+1. Visual Studio 2013 and earlier don't guarantee binary compatibility across versions.
+You can't link object files, static libraries, dynamic libraries, and executables built by different versions.
+
+2. In Visual Studio 2015, 2017, and 2019.
+The runtime libraries and apps compiled by any of these versions of the compiler are binary-compatible.
